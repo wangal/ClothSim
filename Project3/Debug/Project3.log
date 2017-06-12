@@ -1,0 +1,30 @@
+﻿  cloth.cpp
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(135): warning C4101: 'faceFactor': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(127): warning C4101: 'k': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(127): warning C4101: 'ip': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(127): warning C4101: 'kp': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(134): warning C4101: 'face': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(128): warning C4101: 'r4': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(127): warning C4101: 'jp': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(398): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(399): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(400): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(401): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(402): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(403): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(404): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(405): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(410): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(591): warning C4018: '<': signed/unsigned mismatch
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(784): warning C4018: '<': signed/unsigned mismatch
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(795): warning C4101: 'collision': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(830): warning C4101: 'k': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(881): warning C4101: 'i': unreferenced local variable
+c:\users\awang_000\documents\visual studio 2015\projects\clothsim2\project3\cloth.cpp(1045): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  input.cpp
+  Project3.vcxproj -> C:\Users\awang_000\Documents\Visual Studio 2015\Projects\ClothSim2\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\awang_000\Documents\Visual Studio 2015\Projects\ClothSim2\Debug\Project3.pdb (Partial PDB)
